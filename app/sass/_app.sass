@@ -1,5 +1,8 @@
 .hide
-  display: none
+  display: none!important
+
+.show
+  display: flex
 
 .game
   display: flex
@@ -7,6 +10,30 @@
   align-items: center
   height: 100vh
 
+.game-area
+  position: relative
+  width: 300px
+  height: 100%
+  background: #353535
+
 .car
-  width: 100px
-  height: auto
+  position: absolute
+  left: 125px
+  bottom: 10px
+  width: 50px
+  height: 100px
+
+.enemy
+  position: absolute
+  left: 125px
+  bottom: 10px
+  width: 50px
+  height: 100px
+  background: transparent url("../images/dest/car.png") no-repeat center / contain
+
+.line
+  position: absolute
+  width: 10px
+  height: 50px
+  background-color: #fff
+  left: 145px
