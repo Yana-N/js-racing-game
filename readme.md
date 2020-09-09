@@ -1,0 +1,1 @@
+<h1>JS Racing Game</h1>
