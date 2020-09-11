@@ -1,23 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2539e0b2-6dda-459c-93e4-f4c7586de819" name="Default Changelist" comment="" />
+    <list default="true" id="2539e0b2-6dda-459c-93e4-f4c7586de819" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/audio/audio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/audio/crash.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/dest/bass-guitar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/dest/enemy/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/src/bass-guitar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/src/enemy/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/src/enemy/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/src/enemy/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/src/enemy/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/src/enemy/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/src/player-car.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/app.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/app.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/dest/car.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/dest/preview.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/dest/super-car.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/src/car.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/images/src/super-car.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/js/app.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/app.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/_app.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/_app.sass" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hHEVB2vKwipOsignwigMEnnDxi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/images/src" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\linsy\WebstormProjects\js\js-racing_game\app\images\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\linsy\WebstormProjects\js\js-racing_game\app\images\src" />
     </key>
@@ -30,29 +82,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599659639060</updated>
-      <workItem from="1599659640664" duration="9363000" />
+      <workItem from="1599659640664" duration="9554000" />
+      <workItem from="1599679824749" duration="608000" />
+      <workItem from="1599812849209" duration="10186000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1893" height="259" key="GridCell.Tab.0.bottom" timestamp="1599659778100">
+    <state width="1893" height="259" key="GridCell.Tab.0.bottom" timestamp="1599669353849">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599659778100" />
-    <state width="1893" height="259" key="GridCell.Tab.0.center" timestamp="1599659778100">
+    <state width="1893" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599669353849" />
+    <state width="1893" height="259" key="GridCell.Tab.0.center" timestamp="1599669353849">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="259" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599659778100" />
-    <state width="1893" height="259" key="GridCell.Tab.0.left" timestamp="1599659778100">
+    <state width="1893" height="259" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599669353849" />
+    <state width="1893" height="259" key="GridCell.Tab.0.left" timestamp="1599669353848">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="259" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599659778100" />
-    <state width="1893" height="259" key="GridCell.Tab.0.right" timestamp="1599659778100">
+    <state width="1893" height="259" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599669353848" />
+    <state width="1893" height="259" key="GridCell.Tab.0.right" timestamp="1599669353849">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="259" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599659778100" />
+    <state width="1893" height="259" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599669353849" />
   </component>
 </project>
